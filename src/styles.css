@@ -1,0 +1,90 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  /* College Name Banner */
+  .college-name {
+    width: 100%;
+    text-align: center;
+    background-color: #ffA500; /* Red Background */
+    color: white; /* White Text */
+    font-size: 28px;
+    font-weight: bold;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  /* Main Container */
+  .container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 350px;
+    margin-top: 80px; /* Space below the college name */
+  }
+  
+  /* Login Input Fields */
+  input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Adjust button spacing */
+/* General styling for buttons */
+button {
+    width: 95%;
+    padding: 10px;
+    background-color: #3b82f6; /* Blue button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px; /* Adds spacing between buttons */
+  }
+  
+  button:hover {
+    background-color: #2563eb; /* Darker blue on hover */
+  }
+  
+  /* Remove any Rickroll-related styling or hidden links
+  .hidden-easter-egg {
+    display: none;
+  }
+   */
+  
+  /* GPA Result Styling */
+  .gpa-result {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Fail Subjects Styling */
+  .fail-message {
+    color: red;
+    font-weight: bold;
+  }
+  .login-box {
+    border: 2px solid #333; /* Outline color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Space inside the box */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
