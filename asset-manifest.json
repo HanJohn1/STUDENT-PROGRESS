@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/STUDENT-PROGRESS-TRACKER/static/css/main.c6ae2e7f.css",
-    "main.js": "/STUDENT-PROGRESS-TRACKER/static/js/main.b094075a.js",
-    "index.html": "/STUDENT-PROGRESS-TRACKER/index.html",
-    "main.c6ae2e7f.css.map": "/STUDENT-PROGRESS-TRACKER/static/css/main.c6ae2e7f.css.map",
-    "main.b094075a.js.map": "/STUDENT-PROGRESS-TRACKER/static/js/main.b094075a.js.map"
+    "main.css": "/STUDENT-PROGRESS/static/css/main.c6ae2e7f.css",
+    "main.js": "/STUDENT-PROGRESS/static/js/main.b094075a.js",
+    "index.html": "/STUDENT-PROGRESS/index.html",
+    "main.c6ae2e7f.css.map": "/STUDENT-PROGRESS/static/css/main.c6ae2e7f.css.map",
+    "main.b094075a.js.map": "/STUDENT-PROGRESS/static/js/main.b094075a.js.map"
   },
   "entrypoints": [
     "static/css/main.c6ae2e7f.css",
